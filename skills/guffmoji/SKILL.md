@@ -34,7 +34,7 @@ For REACT, SCENE, and SHEET, prefer the user's latest approved character sheet a
 
 If no character reference is available and the request depends on a specific likeness, ask for it. Do not claim to remember or access a sheet from another chat. If the user wants an invented character, proceed from their description.
 
-Ricky and Ellie are demonstration characters, not universal defaults. Use their supplied sheets only when the user requests them. In multi-character scenes, bind each name to its own reference and keep hair, accessories, proportions, and wardrobe distinct.
+Ricky and Partner are demonstration characters, not universal defaults. Use their supplied sheets only when the user requests them. In multi-character scenes, bind each name to its own reference and keep hair, accessories, proportions, and wardrobe distinct.
 
 ## Visual grammar
 
