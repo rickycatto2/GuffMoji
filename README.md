@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/guffmoji-hero.png" alt="GUFFMOJI! A calm digital avatar transforms into a flailing ink-drawn cartoon in three comic panels." width="100%">
+</p>
+
 <div align="center">
 
 # GUFFMOJI
@@ -6,15 +10,11 @@
 
 **Turn your Bitmoji, avatar, or portrait into a gloriously unhinged black-and-white comic character.**
 
-[Get started](#-quick-start) · [Try a prompt](#-prompt-ideas) · [How it works](#-how-it-works) · [Contribute](#-contributing)
+[See examples](#the-evidence) · [Get started](#-quick-start) · [Try a prompt](#-prompt-ideas) · [How it works](#-how-it-works) · [Contribute](#-contributing)
 
 </div>
 
 ---
-
-<!-- HERO IMAGE: Replace this note with ![GuffMoji — sample comic panel](assets/hero.png) after adding your original artwork. -->
-
-> **COMING SOON: THE HERO PANEL.** A properly disastrous comic illustration will live here. Until then, imagine an enormous **KRRRUNCH!** and somebody's glasses flying across the page.
 
 ## What is GuffMoji?
 
@@ -61,6 +61,27 @@ Your avatar / portrait
 
 **Character continuity matters.** Preserve recognizable features even when the face stretches into a scream and the knees bend like plumbing. You can optionally document your character with the [character profile template](skills/guffmoji/references/character-profile.md).
 
+## The evidence
+
+These are the original character and scene experiments, generated with Nano Banana and supplied for this project. They show the intended look; results will vary by model.
+
+<table>
+  <tr>
+    <th width="50%">Ricky</th>
+    <th width="50%">Ellie</th>
+  </tr>
+  <tr>
+    <td><img src="assets/example-ricky-sheet.png" alt="Ricky character sheet: forward baseball cap, round glasses, long face, floppy sneakers, and exaggerated reactions." width="100%"></td>
+    <td><img src="assets/example-ellie-sheet.png" alt="Ellie character sheet: wild curly hair, pendant necklace, dark clothing, chunky boots, and exaggerated reactions." width="100%"></td>
+  </tr>
+</table>
+
+### Just one small formatting change
+
+![Ellie gives increasingly frantic art direction while Ricky struggles at a desktop computer, surrounded by coffee, paper, and comic sound effects.](assets/example-office-panel.png)
+
+*AI-generated example; signature-like marks in the image are generated artifacts, not artist attribution.*
+
 ## 💬 Prompt ideas
 
 > **CREATE:** GuffMoji this avatar. Make a sheet with a full-body pose, delighted cackle, startled scream, furious rant, and clumsy fall. Keep my defining visual features consistent.
@@ -78,7 +99,10 @@ GuffMoji/
 ├── README.md
 ├── LICENSE
 ├── assets/
-│   └── hero.png                   # add your original art here
+│   ├── guffmoji-hero.png
+│   ├── example-ricky-sheet.png
+│   ├── example-ellie-sheet.png
+│   └── example-office-panel.png
 ├── examples/
 │   └── prompts.md
 └── skills/
