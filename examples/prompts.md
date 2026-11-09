@@ -22,7 +22,7 @@ Attach your source image for CREATE. For the other modes, attach the approved ch
 
 > Use this character sheet. The office chair rolls backward just as the character sits down, while their coffee remains impossibly balanced in midair. Show the instant before the inevitable. Black ink, clear silhouette, frantic motion lines.
 
-> Use both attached character sheets. Ellie gives increasingly contradictory art direction while Ricky sweats at a desktop computer. Keep Ellie's curls, pendant, and boots distinct from Ricky's cap, glasses, and sneakers. One panel. Dialogue: “BIGGER!” Sound effect: “CLICK!”
+> Use both attached character sheets. Ricky presses jam-covered hands against the refrigerator while his partner throws up her hands in alarm. Keep the partner's curls, pendant, and boots distinct from Ricky's cap, glasses, and sneakers. One panel. Dialogue: “NOT THE FRIDGE!” Sound effect: “SPLAT!”
 
 ## SHEET · Four stages of having a job
 

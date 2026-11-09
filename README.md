@@ -68,19 +68,17 @@ These are the original character and scene experiments, generated with Nano Bana
 <table>
   <tr>
     <th width="50%">Ricky</th>
-    <th width="50%">Ellie</th>
+    <th width="50%">Partner</th>
   </tr>
   <tr>
     <td><img src="assets/example-ricky-sheet.png" alt="Ricky character sheet: forward baseball cap, round glasses, long face, floppy sneakers, and exaggerated reactions." width="100%"></td>
-    <td><img src="assets/example-ellie-sheet.png" alt="Ellie character sheet: wild curly hair, pendant necklace, dark clothing, chunky boots, and exaggerated reactions." width="100%"></td>
+    <td><img src="assets/example-partner-sheet.png" alt="Partner character sheet: wild curly hair, pendant necklace, dark clothing, chunky boots, and exaggerated reactions." width="100%"></td>
   </tr>
 </table>
 
-### Just one small formatting change
+### Sticky Ricky
 
-![Ellie gives increasingly frantic art direction while Ricky struggles at a desktop computer, surrounded by coffee, paper, and comic sound effects.](assets/example-office-panel.png)
-
-*AI-generated example; signature-like marks in the image are generated artifacts, not artist attribution.*
+![Ricky presses jam-covered hands against the refrigerator while his curly-haired partner throws up her hands in alarm.](assets/example-kitchen-panel.png)
 
 ## 💬 Prompt ideas
 
@@ -88,7 +86,7 @@ These are the original character and scene experiments, generated with Nano Bana
 
 > **REACT:** Use this character sheet. Draw me realizing I've accidentally sent the entire company my grocery list. One expression, no background.
 
-> **SCENE:** Use these two character sheets. One person is giving increasingly contradictory design feedback while the other panics at a desktop computer. Big, hand-lettered sound effects. A single chaotic black-and-white panel.
+> **SCENE:** Use these two character sheets. Ricky presses jam-covered hands against the fridge while his partner reacts in horror. Big, hand-lettered sound effects. A single chaotic black-and-white panel.
 
 More examples in [`examples/prompts.md`](examples/prompts.md).
 
@@ -101,8 +99,8 @@ GuffMoji/
 ├── assets/
 │   ├── guffmoji-hero.png
 │   ├── example-ricky-sheet.png
-│   ├── example-ellie-sheet.png
-│   └── example-office-panel.png
+│   ├── example-partner-sheet.png
+│   └── example-kitchen-panel.png
 ├── examples/
 │   └── prompts.md
 └── skills/

@@ -35,4 +35,4 @@ These summarize the demonstration sheets in the repository. Use the actual image
 
 **Ricky:** forward baseball cap, round glasses, elongated face, prominent rounded nose, light facial stubble, rolled-sleeve button shirt, casual pants, large floppy sneakers. Exaggerated open mouth with blocky teeth and thin, expressive fingers.
 
-**Ellie:** voluminous curly hair with flyaway strands, a smaller and less prominent nose than Ricky's, pendant necklace, dark long-sleeved top, slim dark pants, chunky combat boots. Preserve the hair silhouette and pendant through motion and exaggerated expressions.
+**Partner:** voluminous curly hair with flyaway strands, a smaller and less prominent nose than Ricky's, pendant necklace, dark long-sleeved top, slim dark pants, chunky combat boots. Preserve the hair silhouette and pendant through motion and exaggerated expressions.
